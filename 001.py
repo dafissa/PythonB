@@ -1,0 +1,5 @@
+print ("Qual é o seu nome?")
+Name=input("Entre o seu nome: ")
+print ("Olá,", Name)
+print ("Seja bem-vindo")
+print ("á escola")
