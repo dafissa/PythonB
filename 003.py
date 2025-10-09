@@ -1,0 +1,7 @@
+print ("Bom dia")
+name = input("Qual é o seu nome? ")
+print ("Nome bonito.")
+movie = input ("Fiquei curiosa, qual seu filme favorito, " + name + "? " )
+print ("Nossa, " + movie + ", é um filme bem legal. Acredito que esteja na minha watchlist.")
+food = input ("E comida favorita, você tem? ")
+print ("Caraca, " + food + " é muuuiito gostoso, você tem bom gosto.")
